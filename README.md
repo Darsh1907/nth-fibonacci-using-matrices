@@ -17,17 +17,17 @@ From diagonalization of a matrix A, we have found out that D = S^(-1)AS
 
 Let's say need to find D^2 <br>
 = D * D <br>
-= S^(-1)AS S^(-1)AS <br>
-= S^(-1)A AS <br>
-= S^(-1) A^2 S <br>
+= S^(-1) * A * S * S^(-1) * A * S <br>
+= S^(-1) * A * A * S <br>
+= S^(-1) * A^2 * S <br>
 
 Similarly, to find D^3 <br>
-= D^2 x D <br>
-= S^(-1) A^2 S S^(-1) A S <br>
-= S^(-1) A^2 A S <br>
-= S^(-1) A^3 S <br>
+= D^2 * D <br>
+= S^(-1) * A^2 * S * S^(-1) * A * S <br>
+= S^(-1) * A^2 * A * S <br>
+= S^(-1) * A^3 * S <br>
 
-Hence we can conclude, **D^n = S^(-1) A^n S** <br>
+Hence we can conclude, **D^n = S^(-1) * A^n 8 S** <br>
 
 ## Now, for nth factorial ;-
 
