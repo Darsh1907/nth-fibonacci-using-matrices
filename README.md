@@ -43,6 +43,6 @@ So you can see, by multiplying this matrix repeatedly, it yields the nth and (n+
 
 ![image](https://user-images.githubusercontent.com/118650412/230646072-a7d2c0fe-1d86-4bb2-87bf-f4c1f8a94222.png)
 
-As you can see, we need to find the nth power of a matrix in this equation. We'll use the above derived formula to do so.
+As you can see, we need to find the nth power of A in this equation. We'll use the above derived formula to do so.
 
 We'll be using this logic in our implementation.
