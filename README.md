@@ -13,7 +13,7 @@ We can now define a diagonal matrix D = (S^-1) * A * S = <br>
 
 ## Powers of matrix A :-
 
-From diagonalization of a matrix A, we have found out that D = S^(-1)AS
+From diagonalization of a matrix A, we have found out that D = S^(-1) * A * S
 
 Let's say need to find D^2 <br>
 = D * D <br>
