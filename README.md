@@ -27,7 +27,9 @@ Similarly, to find D^3 <br>
 = S^(-1) * A^2 * A * S <br>
 = S^(-1) * A^3 * S <br>
 
-Hence we can conclude, **D^n = S^(-1) * A^n 8 S** <br>
+Hence we can conclude, D^n = S^(-1) * A^n * S <br>
+So, A^n = S * D^n * S^(-1)
+We'll be using this formula later.
 
 ## Now, for nth factorial ;-
 
