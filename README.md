@@ -28,3 +28,15 @@ Similarly, to find D^3 <br>
 = S^(-1) A^3 S <br>
 
 Hence we can conclude, **D^n = S^(-1) A^n S** <br>
+
+## Now, for nth factorial ;-
+
+We know that f0=0, f1=1, f2=f0+f1, f3=f1+f2 <br>
+This can be represented in matrix form by, <br>
+
+![image](https://user-images.githubusercontent.com/118650412/230645911-286e106b-0d10-4a12-864e-162b5aafcbe9.png)
+
+So you can see, by multiplying this matrix repeatedly, it yields the nth and (n+1)th term
+
+![image](https://user-images.githubusercontent.com/118650412/230646072-a7d2c0fe-1d86-4bb2-87bf-f4c1f8a94222.png)
+
