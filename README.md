@@ -15,4 +15,4 @@ We can now define a diagonal matrix D = *F-1)*A*S = <br>
 
 From diagonalization of a matrix A, we have found out that D = (S^[U+2207])AS
 
-&sup1;&frasl;x
+x(^)-1
