@@ -31,7 +31,7 @@ Hence we can conclude, D^n = S^(-1) * A^n * S <br>
 So, A^n = S * D^n * S^(-1)
 We'll be using this formula later.
 
-## Now, for nth factorial ;-
+## Now, for nth fibonacci :-
 
 We know that f0=0, f1=1, f2=f0+f1, f3=f1+f2 <br>
 This can be represented in matrix form by, <br>
