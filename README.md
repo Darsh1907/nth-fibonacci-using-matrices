@@ -63,7 +63,7 @@ Now to find the nth power of our matrix,
 We use the formula we had derived i.e, A^n = S * D^n * S^(-1)
 ![la](https://user-images.githubusercontent.com/118650412/232274530-f51bc627-fe1e-4470-ad6d-4db1c5d2436a.jpg) <br>
 Lets call this matrix the nth power matrix
-Finally this matrix will be multiplied by the column vector :
+Finally this matrix will be multiplied by the column vector: <br>
 [ 1 ]<br>
 [ 0 ]<br>
 After multiplying, the second element in the resultant column vector will be our nth factorial (From eqn 1)
