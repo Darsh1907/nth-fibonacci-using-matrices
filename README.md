@@ -53,7 +53,7 @@ An obvious improvisation to our previous implementation would be the following:
 As we can see, we are finding the eigen values and eigen vectors of the <br>
 [ 1 1 ]<br>
 [ 1 0 ]<br>
-matrix everytime we need to find some nth fibonnaci number. Instead of this, we can have the eigen values and eigen vectors of this constant matrix before implementing our program. This way we can generate a formula for nth fibonnaci number. Substituing the value of n in the formula will directly yield us the nth fibonnaci. Let's see how: <br>
+matrix everytime we need to find some nth fibonnaci number. Instead of this, we can have the eigen values and eigen vectors of this constant matrix pre-calculated before implementing our program. This way we can generate a formula for nth fibonnaci number. Substituing the value of n in the formula will directly yield us the nth fibonnaci. Let's see how: <br>
 ![image](https://user-images.githubusercontent.com/118650412/232274373-bf8f741a-a4dd-4d8e-9196-3862db9a85a7.png)
 ![image](https://user-images.githubusercontent.com/118650412/232274382-bacafaf9-9917-490b-b56e-e3672d9cae7f.png)
 ![image](https://user-images.githubusercontent.com/118650412/232274387-f6ba98f5-6ea7-43a6-8d3c-80699f07ede1.png)
