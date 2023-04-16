@@ -61,7 +61,7 @@ matrix everytime we need to find some nth fibonnaci number. Instead of this, we 
 ![image](https://user-images.githubusercontent.com/118650412/232274393-65fd7190-3e84-4858-98b0-414151e9ed39.png)
 Now to find the nth power of our matrix,
 We use the formula we had derived i.e, A^n = S * D^n * S^(-1)
-![la](https://user-images.githubusercontent.com/118650412/232274530-f51bc627-fe1e-4470-ad6d-4db1c5d2436a.jpg)
+![la](https://user-images.githubusercontent.com/118650412/232274530-f51bc627-fe1e-4470-ad6d-4db1c5d2436a.jpg) <br>
 Lets call this matrix the nth power matrix
 Finally this matrix will be multiplied by the column vector :
 [ 1 ]<br>
