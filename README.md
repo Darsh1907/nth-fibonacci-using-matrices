@@ -66,7 +66,7 @@ Lets call this matrix the nth power matrix
 Finally this matrix will be multiplied by the column vector: <br>
 [ 1 ]<br>
 [ 0 ]<br>
-After multiplying, the second element in the resultant column vector will be our nth factorial (From eqn 1)
-Hence, the formula for the nth number in the Fibonacci sequence is the lower left entry in the matrix we just found (nth power matrix).
+After multiplying, the second element in the resultant column vector will be our nth factorial (From eqn 1).
+Hence, the formula for the nth number in the Fibonacci sequence is the lower left entry in the matrix we just found (nth power matrix). <br>
 ![image](https://user-images.githubusercontent.com/118650412/232274672-c8d6e420-d1ae-4df4-ac4a-4bd985c45d2d.png)
 I have used this formula to find the nth factorial in the final.py
