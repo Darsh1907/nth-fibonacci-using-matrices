@@ -71,4 +71,4 @@ Hence, the formula for the nth number in the Fibonacci sequence is the lower lef
 ![image](https://user-images.githubusercontent.com/118650412/232274672-c8d6e420-d1ae-4df4-ac4a-4bd985c45d2d.png)
 I have used this formula to find the nth fibonacci in the final.py
 
-###This amazing formula can give us any nth fibonacci using constant time complexity.
+### This amazing formula can give us any nth fibonacci using constant time complexity.
